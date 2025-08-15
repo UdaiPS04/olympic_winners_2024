@@ -1,0 +1,174 @@
+#faf {
+    height: 100px;
+    width: 1000px;
+    border: black;
+    background-color: ;
+    margin-inline-start: 430px;
+    margin-top: -430px;
+}
+
+body {
+    background-color: #daa06d;
+}
+
+#fbf {
+    background-image: url(paris-olympics-neeraj-chopra-silver-2024-08-9005b97e979382b14bd19a4507189d75.jpg.webp);
+    background-size: cover;
+    margin-top: 20px;
+    height: 400px;
+    width: 400px;
+    border-radius: 60px;
+
+}
+
+h2 {
+    color: rgb(98, 41, 0);
+    font: 700;
+    margin-inline-end: 430px;
+    font-weight: bolder;
+
+}
+
+.fgh {
+    color: rgb(65, 1, 1);
+    border: black;
+    padding: 10px;
+    font-size: 120px;
+    border: 1px solid grey;
+    float: left;
+    width: 90%;
+    background: white;
+
+}
+
+h3 {
+    height: 100px;
+    width: 100px;
+    border: rgb(99, 0, 0);
+    margin-top: -10px;
+    font-size: 30px;
+}
+
+.logo {
+    width: 300px;
+    border: 15px rgb(255, 1, 1);
+    padding: 40px;
+    margin-top: -30px;
+    display: flex;
+    gap: 19px;
+    list-style: none;
+    justify-content: flex-start;
+
+
+
+}
+
+.heading {
+    font-size: x-large;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 20px;
+
+}
+
+a:active {
+    background-color: rgb(0, 170, 232);
+}
+
+a:hover {
+    background-color: #da6d6d;
+}
+
+::selection {
+    background-color: #15b43d;
+}
+
+.neeraj {
+    padding: 20px;
+    border: 2px solid white;
+    width: 280px;
+    height: 17px;
+    border-radius: 20px;
+    white-space: nowrap;
+    top: 100%;
+    left: 0.5%;
+    margin-top: 10px;
+    position: relative;
+    margin-left: 0;
+    text-align: left;
+
+}
+
+.bhaker {
+    padding: 20px;
+    border: 2px solid white;
+    width: 280px;
+    height: 17px;
+    border-radius: 20px;
+    white-space: nowrap;
+    left: 1%;
+    margin-top: 10px;
+    position: absolute;
+    /* top: 87%; */
+    transform: translateY(180%);
+
+}
+
+.nav {
+    font-size: 50px;
+    position: sticky;
+    background-color: #f8b601;
+    justify-self: center;
+    align-items: center;
+    top: 0;
+    margin-left: -1px;
+    display: flex;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.autobox {
+    height: 32px;
+    width: 32px;
+    background: #ebc55c;
+    position: fixed;
+    bottom: 12px;
+    right: 23px;
+    border-radius: 100px;
+}
+
+.nav img {
+    height: 130x;
+    width: 110px;
+    transform: translateY(3%);
+    border-radius: 50px;
+}
+
+.search {
+    transform: translate(87%);
+
+}
+
+.manupara img {
+    background-size: cover;
+    margin-top: 20px;
+    height: 400px;
+    width: 400px;
+    border-radius: 60px;
+  position: relative;
+  right: 430px;
+  bottom: 165px;
+
+}
+.manupara p{
+    font-size:x-large ;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 195px;
+}
+#also{
+    position: relative;
+    top: 35px;
+}
